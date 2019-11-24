@@ -7,4 +7,4 @@ This program uses tkinter and csv modules.
 Python3 installed in the system.  
 
 # Instructions  
-Double click on loginGUI to run the program.  
+Double click on loginGUI.py to run the program.  
